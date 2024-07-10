@@ -42,14 +42,6 @@ As a project mentor, I guided a team of students through the comprehensive lifec
 - **Performance:** Achieved an R² score of 0.44 on test data.
 
 
-
-### Project Structure
-- **notebooks/**: Jupyter notebooks for each session and topic.
-- **data/**: Directory containing datasets used for the project.
-- **models/**: Directory for saving trained models.
-- **scripts/**: Python scripts for data preprocessing and model training.
-- **requirements.txt**: List of required Python libraries.
-
 ## Contribution
 Feel free to fork this repository, make enhancements, and submit pull requests. Contributions are always welcome!
 
